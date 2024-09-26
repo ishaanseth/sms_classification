@@ -1,7 +1,7 @@
 # SMS Classification Notebook
  An RNN-based SMS Classification tool that gets rid of spam messages!
 
-# RNNs for Text Classification
+## RNNs for Text Classification
 
 We will use a RNN based model to perform classification of SMS messages into Spam or not Spam (ham).
 
