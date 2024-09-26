@@ -1,4 +1,4 @@
-# sms_classification
+# SMS Classification Notebook
  An RNN-based SMS Classification tool that gets rid of spam messages!
 
 # RNNs for Text Classification
